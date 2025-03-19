@@ -58,7 +58,7 @@ I am currently working on a documentation program that helps people curate bette
 
 ## 🏅 Certifications
 
-[![UC Davis](https://img.shields.io/badge/UC_Davis-002855?style=for-the-badge&logo=coursera&logoColor=white)](https://your-certificate-link.com)  
+[![UC Davis](https://img.shields.io/badge/UC_Davis-002855?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/9UZT4KPGB81Z) 
 Search Engine Optimization (SEO)
 
 [![DataCamp](https://img.shields.io/badge/SCRUM-Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://your-certificate-link.com)  
