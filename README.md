@@ -42,3 +42,16 @@ I am currently working on a documentation program that helps people curate bette
 
 ### 💻 Database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+
+## 📊 GitHub Stats
+
+![MiguelIbrahimE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelIbrahimE&show_icons=true&theme=dark&rank_icon=percentile)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MiguelIbrahimE&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelIbrahimE&layout=compact&theme=dark)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MiguelIbrahimE&theme=darkhub&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+
