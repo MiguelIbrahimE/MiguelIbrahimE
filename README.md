@@ -54,4 +54,18 @@ I am currently working on a documentation program that helps people curate bette
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MiguelIbrahimE&theme=darkhub&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏅 Certifications
+
+[![UC Davis](https://img.shields.io/badge/UC_Davis-002855?style=for-the-badge&logo=coursera&logoColor=white)](https://your-certificate-link.com)  
+Search Engine Optimization (SEO)
+
+[![DataCamp](https://img.shields.io/badge/SCRUM-Datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://your-certificate-link.com)  
+SCRUM Fundamentals
+
+[![Codecademy](https://img.shields.io/badge/Intermediate%20Java-Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://your-certificate-link.com)  
+Intermediate Java
+
+[![Codecademy](https://img.shields.io/badge/Learn%20Python-Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://your-certificate-link.com)  
+Learn Python
+
 
