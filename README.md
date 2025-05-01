@@ -56,11 +56,16 @@ I am currently working on a documentation program that helps people curate bette
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=MiguelIbrahimE&theme=darkhub&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
 ## 🏅 Certifications
 
 [![UC Davis](https://img.shields.io/badge/UC_Davis-002855?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/9UZT4KPGB81Z)
-
 Search Engine Optimization (SEO)
+
+[![Stanford](https://img.shields.io/badge/Stanford-8C1515?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/ZUITZEF2QK1M)
+Writing in the Sciences (Technical Writing)
+
 
 
 
