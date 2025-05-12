@@ -1,11 +1,11 @@
 # About Me:
 👋 Hi, I'm Miguel! Thanks for visiting my profile 😁
 
-I'm a Computer Science Graduate from the Lebanese American University. I've been in the software business since 2018 starting with Rust.
+I'm a Computer Science Graduate from the Lebanese American University. I've been in the software business since 2015 - When i was 13 :)) starting with Rust. I opened my first company at age 15! and now I am in Belgium actively looking for work.
 
 I am currently working on a documentation program that helps people curate better user manuals 💻. Hopefully we can also have multiple different types of manuals, maybe also an intruction manual. 
 
-🎨 Interests: Arts, Music, Photograph, Cooking | UX/UI & SEO 🧑‍🎨 | AI/ML/Data Analytics 🤖 
+🎨 Interests: Arts, Music, Photograph, Cooking | UX/UI & SEO 🧑‍🎨 | AI/ML/Data Analytics 🤖 | Documentation
 
 ##  🛜 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguel_ibrahim)
