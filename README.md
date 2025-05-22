@@ -3,7 +3,7 @@
 
 I'm a Computer Science Graduate from the Lebanese American University. I've been in the software business since 2015 - When i was 13 :)) starting with Rust. I opened my first company at age 15! and now I am in Belgium actively looking for work.
 
-I am currently working on a documentation program that helps people curate better user manuals 💻. Hopefully we can also have multiple different types of manuals, maybe also an intruction manual. 
+I am currently working on a documentation program that helps people curate better user manuals 💻.
 
 🎨 Interests: Arts, Music, Photograph, Cooking | UX/UI & SEO 🧑‍🎨 | AI/ML/Data Analytics 🤖 | Documentation
 
