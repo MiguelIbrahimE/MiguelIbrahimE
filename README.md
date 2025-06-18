@@ -99,7 +99,8 @@ Computer-Science graduate (Lebanese American University) who’s been shipping s
 |---------|--------|--------------------|
 | **Prometheus – Sypec** *(Open Source SaaS)* | **Jun 2025 – Present** | Audits repos for sustainability, security & docs from a single API call.  <br>**Python 3.12, FastAPI, Jinja2/LaTeX, Docker, Linux** |
 | **Prometheus – Echo** *(Open Source SaaS)* | **Sep 2022 – Jun 2025** | Maintains code-quality and auto-generates documentation.  <br>**Node.js, React TSX, FastAPI, Postgres, AWS, Kubernetes, Jenkins, Dagster, PyTorch, R, Jupyter, Tailwind** |
-
+| **Playlink - Ugent** | **Sep 2023 – Jun 2024** | Capstone web application for the purpose of creating an app to connect people.  <br>**React.ts, CSS, HTML, Postgres, Docker, Google cloud, github, gitlab, jira, jenjins, jest** |
+| **UULebanon - Lebanese American Univesrity** | **Sep 2021 – Jun 2023** | Capstone web application made entirely in PHP.  <br>**PHP, CSS, HTML, MariaDB** |
 ---
 
 ## 🛠 Core Skills
