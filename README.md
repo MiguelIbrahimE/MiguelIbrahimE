@@ -78,13 +78,13 @@ Computer-Science graduate (Lebanese American University) who’s been shipping s
 
 ## 💼 Experience
 | Role | Period | Key Achievements |
-|| **Founder & Technical Writer – Randish** *Gent, Belgium* | **Sep 2025 – Present** | • We do cool Stuff @ Randish |
+|---------|--------|--------------------|
+| **Founder & Technical Writer – Randish** *Gent, Belgium* | **Sep 2025 – Present** | • We do cool Stuff @ Randish |
 | **Co-Founder & Technical Lead – EME International** *(Remote)* | **Sep 2020 – July 2025** | • Deployed **Odoo** ERP and automated email campaigns → **+40 %** operational efficiency  <br>• Led dev team with **Agile/SCRUM**, raising delivery quality **+15 %** |
 | **Data Engineer Intern – Kapernikov** *(Brussels, Belgium)* | **Feb 2025 – Apr 2025** | • Docker-ized C++/PyTorch model, cutting setup time by 3 min  <br>• Integrated model in **Dagster** via Azure DevOps, pushing accuracy **90 → 98 %** on 10 TB point-clouds |
 | **General Assistant – Lebanese American University** *(Beirut, Lebanon)* | **Jan 2022 – Jun 2023** | • Delivered C/C++ & Java course content; student scores **+12 %** |
 | **Assistant Researcher Intern – UNESCO** *(Jbeil, Lebanon)* | **Nov 2021 – Apr 2023** | • Curated web docs; improved accessibility for 1 000 + visitors; engagement **+15 %** |
-| **Coding Instructor – Geek Express** | **Nov 2021 – Jun 2022** | • Ran game-programming curriculum → **95 %** student-satisfaction  <br>• Provided remote tech support (Win/macOS) ||
-
+| **Coding Instructor – Geek Express** | **Nov 2021 – Jun 2022** | • Ran game-programming curriculum → **95 %** student-satisfaction  <br>• Provided remote tech support (Win/macOS) |
 ---
 
 ## 🎓 Education
@@ -96,8 +96,9 @@ Computer-Science graduate (Lebanese American University) who’s been shipping s
 ## 💡 Projects
 | Project | Period | Stack & Highlights |
 |---------|--------|--------------------|
-| **Prometheus – Sypec** *(Open Source SaaS)* | **Jun 2025 – Present** | Audits repos for sustainability, security & docs from a single API call.  <br>**Python 3.12, FastAPI, Jinja2/LaTeX, Docker, Linux** |
-| **Prometheus – Echo** *(Open Source SaaS)* | **Sep 2022 – Jun 2025** | Maintains code-quality and auto-generates documentation.  <br>**Node.js, React TSX, FastAPI, Postgres, AWS, Kubernetes, Jenkins, Dagster, PyTorch, R, Jupyter, Tailwind** |
+| **Randish – Anceww** *(Open Source SaaS)* | **September 2025 – Present** | Acne Tracker & Destroyer Application - <br> Node.js, React TSX, Turbo ** |
+| **Randish – Sypec** *(Open Source SaaS)* | **Jun 2025 – Present** | Audits repos for sustainability, security & docs from a single API call.  <br>**Python 3.12, FastAPI, Jinja2/LaTeX, Docker, Linux** |
+| **Randish – Echo** *(Open Source SaaS)* | **Sep 2022 – Jun 2025** | Maintains code-quality and auto-generates documentation.  <br>**Node.js, React TSX, FastAPI, Postgres, AWS, Kubernetes, Jenkins, Dagster, PyTorch, R, Jupyter, Tailwind** |
 | **Playlink - Ugent** | **Sep 2023 – Jun 2024** | Capstone web application for the purpose of creating an app to connect people.  <br>**React.ts, CSS, HTML, Postgres, Docker, Google cloud, github, gitlab, jira, jenjins, jest** |
 | **UULebanon - Lebanese American Univesrity** | **Sep 2021 – Jun 2023** | Capstone web application made entirely in PHP.  <br>**PHP, CSS, HTML, MariaDB** |
 ---
