@@ -86,6 +86,8 @@ Computer-Science graduate (Lebanese American University) who’s been shipping s
 ---
 
 ## 🎓 Education
+**M.Sc Computer Science & Engineering - Ghent University - Incomplete (42 credis)**
+*Ghent, Belgium • Sep 2023 – Jul 2025*
 **B.Sc. Computer Science – Lebanese American University**  
 *Beirut, Lebanon • Sep 2020 – Jul 2023*
 
