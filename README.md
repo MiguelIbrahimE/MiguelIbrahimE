@@ -3,13 +3,12 @@
 ### 📍 Gent, Belgium&nbsp;•&nbsp;📧 miguelibrahim2002@gmail.com&nbsp;•&nbsp;☎️ +32 471 66 15 08  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ibrahim) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MiguelIbrahimE) 
-[![Web](https://img.shields.io/badge/Personal_Page-111111?style=flat&logo=ghost&logoColor=white)](https://miguel-ibrahim.netlify.app/)
 
 ---
 
 ## 👋 About Me
-Computer-Science graduate (Lebanese American University) who’s been shipping software since **2015** (Rust at 13!), founded a company at 15, and is now building better documentation tooling while hunting for new challenges in Belgium.  
-🎨 **Interests:** Art, Music, Photography, Cooking | UX/UI & SEO 🧑‍🎨 | AI / ML / Data Analytics 🤖 | Documentation
+Computer-Science graduate (Lebanese American University) who’s been shipping software since **2017** , founded a company at 15, and is now building better documentation tooling while hunting for new challenges in Belgium.  
+🎨 **Interests:** Art, Music, Photography, Cooking | UX/UI & SEO | AI / ML / Data Analytics | Documentation & Technical Writing
 
 ---
 
@@ -18,7 +17,6 @@ Computer-Science graduate (Lebanese American University) who’s been shipping s
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguel_ibrahim)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@miguelibrahim2151)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ibrahim)
-[![Blog](https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=ghost&logoColor=white)](https://miguel-ibrahim.netlify.app/)
 
 ---
 
