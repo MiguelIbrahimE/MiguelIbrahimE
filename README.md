@@ -107,18 +107,28 @@ Computer-Science graduate (Lebanese American University) who’s been shipping s
 Technical Writing • Software Engineering • Data Engineering • MLOps • Project Management • Software Consulting • IT Support
 
 ---
+## Articles - Medium
+https://medium.com/@linster-the-administor
+- Moving Towards a Home-Based Electronic Recylcing
+- The Startup Loop of Horror
+- Modernizing Terms & Conditions
+- The Skipping Stone Effect & Jevin's Paradox
 
+
+---
 ## 🏅 Certifications
+- **TEFL Certificate**
 - **Advanced Search Engine Optimization** (UC Davis)  
 - **Writing in the Sciences** (Stanford)  
 - **Technical Writer** (Google)  
 - **Microsoft Certified Trainer**  
 - **IELTS C1**
+- **Dutch A2 Certified - UCT**
 
 ---
 
 ## 🌐 Languages
-English *(Fluent)* • Arabic *(Native)* • Chinese *(Native)* • French *(Intermediate)* • Dutch *(Basic A2)* • Spanish *(Basic A2)*
+English *(Fluent)* • Arabic *(Native)* • Chinese *(Native)* • French *(Intermediate)* • Dutch *(A2+)* • Spanish *(Basic A2)*
 
 ---
 
