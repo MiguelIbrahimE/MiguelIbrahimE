@@ -6,14 +6,7 @@
 
 ---
 
-## 👋 About Me
-Computer-Science graduate (Lebanese American University) who’s been shipping software since **2017** , founded a company at 15, and is now building better documentation tooling while hunting for new challenges in Belgium.  
-🎨 **Interests:** Art, Music, Photography, Cooking | UX/UI & SEO | AI / ML / Data Analytics | Documentation & Technical Writing
-
----
-
 ## 🛜 Socials
-<!-- keep the big badges -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguel_ibrahim)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@miguelibrahim2151)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ibrahim)
@@ -21,7 +14,6 @@ Computer-Science graduate (Lebanese American University) who’s been shipping s
 ---
 
 ## 🚀 Tech Stack
-<!-- (unchanged sections you already had, now include new ones) -->
 ### 🖥️ Frontend
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
@@ -124,6 +116,7 @@ https://medium.com/@linster-the-administor
 - **Microsoft Certified Trainer**  
 - **IELTS C1**
 - **Dutch A2 Certified - UCT**
+- **Google IT Support**
 
 ---
 
