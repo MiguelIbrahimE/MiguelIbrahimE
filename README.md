@@ -1,6 +1,4 @@
-# Miguel Ibrahim
 
-### 📍 Gent, Belgium&nbsp;•&nbsp;📧 miguelibrahim2002@gmail.com&nbsp;•&nbsp;☎️ +32 471 66 15 08  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ibrahim) 
 
 
