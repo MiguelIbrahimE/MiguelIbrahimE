@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelibrahime" alt="miguelibrahime" /></a> </p>
 
-- Currently working on [Echo](https://github.com/Randish-soft/Echo)
+- Currently working and Biggest Preject is [Echo](https://github.com/Randish-soft/Echo)
 
 - I'm looking into learning and mastering **React, .NET**
 
