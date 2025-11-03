@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelibrahime" alt="miguelibrahime" /></a> </p>
 
-- 🔭 I’m currently working on [Echo](https://github.com/Randish-soft/Echo)
+- Currently working on [Echo](https://github.com/Randish-soft/Echo)
 
-- 🌱 I’m currently learning **React, .NET**
+- I'm looking into learning and mastering **React, .NET**
 
-- 👨‍💻 All of my projects are available at [lin-ibrahim.netlify.app](lin-ibrahim.netlify.app)
+- All of my project previews are available at [lin-ibrahim.netlify.app](lin-ibrahim.netlify.app)
 
-- 📝 I regularly write articles on [Sustainability, Sociology](Sustainability, Sociology)
+- I love writing articles on [Sustainability, Sociology, and Humanities](Sustainability, Sociology)
 
-- 💬 Ask me about **Documentation, Project Engineering, Machine Learning**
+- I'm really experienced in  **Documentation, Project Engineering, and Machine Learning**
 
-- 📫 How to reach me **linn.ibrahim@outlook.com**
+- My email: **linn.ibrahim@outlook.com**
 
-- ⚡ Fun fact **I am a musician and I speak 6 Languages**
+- Fun fact **I am a musician and I speak 6 Languages**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
